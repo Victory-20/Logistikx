@@ -1,0 +1,138 @@
+ .u-section-1 {
+  background-image: url("../images/87b2d85e9f8cfe33a1694488506ea7709ded76118db018fb9d225c01adda7077b777515310eed65ab7c86ecc7cde210494716404814d5a0976ffa7_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 605px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 59px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 4px auto 0 273px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 431px;
+  margin: -7px 312px 0 258px;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.5rem;
+  margin: -387px auto 0 273px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.5rem;
+  margin: 38px auto 0 273px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.5rem;
+  margin: 52px auto 184px 273px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 570px;
+    margin-left: 158px;
+    margin-right: 212px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 382px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 48px;
+    margin-right: 102px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 209px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 287px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 157px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 157px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 157px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 157px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 181px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 99px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 99px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 99px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 99px;
+  }
+}
